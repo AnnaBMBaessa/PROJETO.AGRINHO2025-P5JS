@@ -13,3 +13,5 @@ INSTRUÇÕES do JOGO
 
 Para iniciar, o jogador deve clicar no play e depois uma vez no canva.
 O restante das intruções estão no canto inferior direito e/ou no '?'.
+
+Nas refer~encias, o uso do chat gpt foi somente para auxílio. Como: "Como faço para fazer um personagem x fazer algo y?". 
